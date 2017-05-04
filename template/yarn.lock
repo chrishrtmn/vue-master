@@ -4206,6 +4206,10 @@ rollup-plugin-uglify@^1.0.2:
   dependencies:
     uglify-js "^2.6.1"
 
+rollup-plugin-visualizer@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/rollup-plugin-visualizer/-/rollup-plugin-visualizer-0.2.1.tgz#f8ce144a23f3f41d6bc930066119b47f1415d4ab"
+
 rollup-plugin-vue@^2.3.1:
   version "2.3.1"
   resolved "https://registry.yarnpkg.com/rollup-plugin-vue/-/rollup-plugin-vue-2.3.1.tgz#73b30ff0c6d37d87cbd02b6555680cb5c31f3a9e"

@@ -11,6 +11,7 @@ import commonjs from 'rollup-plugin-commonjs';
 import resolve from 'rollup-plugin-node-resolve';
 import livereload from 'rollup-plugin-livereload'
 import serve from 'rollup-plugin-serve'
+import visualizer from 'rollup-plugin-visualizer';
 import postcss from 'rollup-plugin-postcss';
 
 // PostCSS plugins
@@ -39,6 +40,7 @@ const plugins = [
     main: true,
     browser: true,
   }),
+  Visualizer(),
   postcss({
     plugins: [
       cssnext({

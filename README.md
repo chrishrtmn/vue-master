@@ -7,7 +7,7 @@
 </p>
 <h3 align="center">The Badass Creator of Badassitude</h3>
 
-# Vue-Master &nbsp; [![Build Status](https://circleci.com/gh/vuejs/vuex/tree/dev.png?style=shield)](https://circleci.com/gh/chrishrtmn/vue-master) [![Github All Releases](https://img.shields.io/github/downloads/chrishrtmn/vue-master/total.svg?style=flat-square)]()
+# Vue-Master &nbsp; &nbsp; [![Build Status](https://circleci.com/gh/vuejs/vuex/tree/dev.png?style=shield)](https://circleci.com/gh/chrishrtmn/vue-master) [![Github All Releases](https://img.shields.io/github/downloads/chrishrtmn/vue-master/total.svg?style=flat-square)]()
 
 > Create a **badass** rapid prototyping environment for modern apps and websites.
 
@@ -18,14 +18,14 @@
 |[Vue](https://github.com/vuejs/vue)| _Progressive javascript framework_ |
 |[Vuex](https://github.com/vuejs/vuex)| _State management_ |
 |[Axios](https://github.com/mzabriskie/axios)| _HTTP client for promise-based requests_ |
-|[GraphQL](http://graphql.org/)| _A query language for the API layer_ |
+|[GraphQL](https://github.com/graphql/graphql-js)| _A query language for the API layer_ |
 |[Vue-Apollo](https://github.com/Akryum/vue-apollo)| _Load GraphQL data into your UI for Vue_ |
 |[Rollup](https://github.com/rollup/rollup)| _Javascript module bundler_ |
 |[Babel](https://github.com/babel/babel)| _Future-proof javascript compiler_ |
 |[PostCSS](https://github.com/postcss/postcss)| _Future-proof CSS with plugins_ |
 |[Element](https://github.com/ElemeFE/element)| _UI framework based on Vue_ |
 |[Vue-Admin](https://github.com/taylorchen709/vue-admin)| _Admin framework based on Vue & Element_ |
-|[Jest](https://github.com/facebook/jest) ([alt](https://github.com/kentaromiura/jest-for-all))| _Javascript testing_ |
+|[Jest](https://github.com/kentaromiura/jest-for-all)| _Javascript testing_ |
 
 <br>
 
