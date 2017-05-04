@@ -1,4 +1,11 @@
 <p align="center">
+	<img
+		width="200"
+		height="200"
+		title="Vue-Master Logo"
+		src="https://github.com/chrishrtmn/vue-master/blob/master/logo.png">
+</p>
+<p align="center">
 	![](logo.png)
 </p>
 <h3 align="center">The Badass Creator of Badassitude</h3>
