@@ -1,0 +1,21 @@
+{
+	"schema": {
+		"name": {
+			"type": "string",
+			"required": true,
+			"message": "Project name",
+      "default": "Vue-Master"
+		},
+		"description": {
+			"type": "string",
+			"required": false,
+			"message": "Project description",
+			"default": "Badass rapid prototyping with Vue, Rollup, and PostCSS"
+		},
+		"author": {
+			"type": "string",
+			"label": "Author",
+      "default": "chrishrtmn"
+		}
+	}
+}
