@@ -9,7 +9,7 @@
 
 # Vue-Master &nbsp; &nbsp; [![Build Status](https://circleci.com/gh/vuejs/vuex/tree/dev.png?style=shield)](https://circleci.com/gh/chrishrtmn/vue-master) [![Github All Releases](https://img.shields.io/github/downloads/chrishrtmn/vue-master/total.svg?style=flat-square)]()
 
-> Create a **badass** rapid prototyping environment for modern apps and websites.
+> Create a rapid prototyping environment for modern apps and websites.
 
 <br>
 
