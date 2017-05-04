@@ -23,7 +23,7 @@ import cssutilities from 'postcss-utilities';
 // Plugin options
 const plugins = [
   vue({
-    css: './src/assets/styles/app.css'
+    css: './src/app.css'
   }),
   json(),
   babel({
@@ -61,8 +61,8 @@ const plugins = [
 ]
 
 const config = {
-  entry: './src/assets/scripts/main.js',
-  dest: './dist/main.min.js',
+  entry: './src/app.js',
+  dest: './dist/app.min.js',
   sourceMap: true,
   format: 'IIFE',
   plugins: plugins
