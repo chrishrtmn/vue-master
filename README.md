@@ -1,11 +1,9 @@
 <p align="center">
 	<img
-		width="200"
-		height="200"
-		title="Vue-Master Logo"
-		src="https://github.com/chrishrtmn/vue-master/blob/master/logo.png">
+		width="100%"
+		title="Vue-Master Header"
+		src="https://github.com/chrishrtmn/vue-master/blob/master/screenshot.png">
 </p>
-<h3 align="center">The Badass Creator of Badassitude</h3>
 
 # Vue-Master &nbsp; &nbsp; [![Build Status](https://circleci.com/gh/vuejs/vuex/tree/dev.png?style=shield)](https://circleci.com/gh/chrishrtmn/vue-master) [![Github All Releases](https://img.shields.io/github/downloads/chrishrtmn/vue-master/total.svg?style=flat-square)]()
 
