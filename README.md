@@ -66,6 +66,7 @@ npm run build
 ## Roadmap
 
 1. Integrate options for E2E and Unit testing
+2. Replace Rollup with Webpack
 
 <br>
 
