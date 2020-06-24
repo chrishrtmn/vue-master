@@ -11,18 +11,18 @@
 
 <br>
 
-|Feature|Description|
-|:---|:---|
-|[Vue](https://github.com/vuejs/vue)| _Progressive javascript framework_ |
-|[Vuex](https://github.com/vuejs/vuex)| _State management_ |
-|[Fetch](https://github.com/github/fetch)| _Polyfill for HTTP promise-based requests_ |
-|[GraphQL](https://github.com/graphql/graphql-js)| _A query language for the API layer_ |
-|[Vue-Apollo](https://github.com/Akryum/vue-apollo)| _Load GraphQL data into your UI for Vue_ |
-|[Rollup](https://github.com/rollup/rollup)| _Javascript module bundler_ |
-|[Babel](https://github.com/babel/babel)| _Future-proof javascript compiler_ |
-|[PostCSS](https://github.com/postcss/postcss)| _Future-proof CSS with plugins_ |
-|[Element](https://github.com/ElemeFE/element)| _UI framework based on Vue_ |
-|[Vue-Admin](https://github.com/taylorchen709/vue-admin)| _Admin framework based on Vue & Element_ |
+| Feature                                                 | Description                                |
+| :------------------------------------------------------ | :----------------------------------------- |
+| [Vue](https://github.com/vuejs/vue)                     | _Progressive javascript framework_         |
+| [Vuex](https://github.com/vuejs/vuex)                   | _State management_                         |
+| [Fetch](https://github.com/github/fetch)                | _Polyfill for HTTP promise-based requests_ |
+| [GraphQL](https://github.com/graphql/graphql-js)        | _A query language for the API layer_       |
+| [Vue-Apollo](https://github.com/Akryum/vue-apollo)      | _Load GraphQL data into your UI for Vue_   |
+| [Rollup](https://github.com/rollup/rollup)              | _Javascript module bundler_                |
+| [Babel](https://github.com/babel/babel)                 | _Future-proof javascript compiler_         |
+| [PostCSS](https://github.com/postcss/postcss)           | _Future-proof CSS with plugins_            |
+| [Element](https://github.com/ElemeFE/element)           | _UI framework based on Vue_                |
+| [Vue-Admin](https://github.com/taylorchen709/vue-admin) | _Admin framework based on Vue & Element_   |
 
 <br>
 
@@ -37,7 +37,7 @@ $ cd my-project
 $ npm install
 ```
 
-> If you have [Yarn](https://yarnpkg.com/en/) installed, feel free to use ```yarn``` instead of ```npm install```
+> If you have [Yarn](https://yarnpkg.com/en/) installed, feel free to use `yarn` instead of `npm install`
 
 <br>
 
@@ -65,8 +65,7 @@ npm run build
 
 ## Roadmap
 
-1. Integrate options for E2E and Unit testing
-2. Replace Rollup with Webpack
+1. To be determined
 
 <br>
 
