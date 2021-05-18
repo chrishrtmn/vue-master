@@ -53,7 +53,7 @@
     "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-postcss": "^3.1.2",
     "rollup-plugin-progress": "^1.1.2",
-    "rollup-plugin-serve": "^1.0.1",
+    "rollup-plugin-serve": "^1.0.2",
     "rollup-plugin-strip": "^1.2.2",
     "rollup-plugin-uglify": "^6.0.4",
     "rollup-plugin-visualizer": "^4.0.4",
